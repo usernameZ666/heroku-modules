@@ -1,4 +1,4 @@
-# meta developer: @your_username
+# meta developer: @usernameZ666
 # meta version: 1.0.0
 # meta description: Автоответчик — реагирует на фразу от конкретного пользователя в нужных чатах
 
